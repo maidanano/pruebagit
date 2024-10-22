@@ -1,4 +1,4 @@
-PROBANDO LA EDICION-  PRUEBA 1
+PROBANDO LA EDICION-  PRUEBA 1---  <<<<<<<<prueba 2 desde computadoraaaaaa>>>>>>>>>
 
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX (aquí va la clave del producto)
 
